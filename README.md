@@ -1,1 +1,1 @@
-# AI-powered-detection-of-harmfull-contents
+# AI-powered-detection-of-harmful contents
